@@ -1,1 +1,1 @@
-# Craving
+# Craving is an android application which helps you find a food you can see but cannot find in restaurants you visit. It helps you take snapshot of a food (from actual food, or picture of a food), process it, identify it, and suggest places near you where the food is present in the menu.
